@@ -2,11 +2,8 @@
   font-family: "roboto";
   src: url("assets/fonts/Roboto-Bold.ttf") format("ttf"),
     url("assets/fonts/Roboto-Regular.ttf") format("ttf");
-  /* Add more font formats if necessary */
-  /* Specify other font properties if needed */
 }
 
-/* Use the font in your CSS */
 body {
   font-family: "roboto", sans-serif;
 }
